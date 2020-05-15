@@ -6,8 +6,8 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setup(
-    name="lambdata_PalmerT", # the name that you will install via pip
-    version="1.0",
+    name="lambdataPalmerT", # the name that you will install via pip
+    version="1.1",
     author="Palmer Turley",
     author_email="palmerturley34@gmail.com",
     description="Helper Functions",
